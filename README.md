@@ -90,9 +90,6 @@ Being a president of a club any club will allow you to develop many necessary sk
 - confidence
 - adaptability
 
-
-
-
 ## Job Examples
 |                 |Entry Level          |Mid level               |Senior level                     |
 |-----------------|:--------------------|:-----------------------|:--------------------------------|
