@@ -33,23 +33,25 @@ For almost all universities it takes 4 years to graduate with a computer science
 
 ## Technical and Non-technical Skills
 ### Technical 
-<img src = "https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/Person%20coding%20on%20a%20computer.png" width = "100" height = "80">
-- Certification, ie. Project Management Professional (PMP) Certification
-- programming languages 
-    - JavaScript
-    - Java
-    - C
-    - C++
-    - HTML
-    - CSS
-    - Python
-    - SQL
-    - PHP
+<img src = "https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/Person%20coding%20on%20a%20computer.png" width = "350" height = "300">
+
+- Certification, Project Management Professional (PMP) Certification
+Programming Languages:
+- JavaScript
+- Java
+- C
+- C++
+- HTML
+- CSS
+- Python
+- SQL
+- PHP
 - previous work experience in the field
 - bachelors degree in computer science
 
 ### Non-Technical skills, Qualities, and Characteristics
 ![alt text](https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/5-ways-to-improve-your-teamwork-skills-300x200.jpg "Teamwork")
+
 - Leadership skills
 - Management Skills
 - Fast learners
