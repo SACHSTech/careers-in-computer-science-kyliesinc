@@ -2,7 +2,7 @@
 # Program Manager
 
 ## Description
-A program manager is in charge of many things. Such as managing and organizing projects for teams of employees. They also create timelines and budgets and overlook the various programs and tasks for employers. 
+A program manager is in charge of many things. Such as managing and organizing projects for teams of employees. They also create timelines and budgets and overlook the various programs and tasks for employers. Program mangers are in charge of monitoring the accomplishment of more important organisational goals. Without overseeing any of the initiatives, they coordinate efforts across many of them. Instead, they take charge of the entire programme while paying close attention to delegation, strategy, and implementation. Program managers are highly qualified individuals who support organisations in staying on schedule, under budget, and ultimately on a successful and expanding trajectory.
 
 ## Education
 Inorder to become a Program Manager the education needed is Computer Engineering, Computer Science or Electrical Engineering Bachelor Degree
