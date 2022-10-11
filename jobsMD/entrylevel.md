@@ -1,5 +1,5 @@
 # Job Description: Entry-Level Software Engineer / Developer 
-
+As an entry-level software engineer/developer, their responsibilities are to learn the codebase, participate in design meeting, write simple code, replair bugs, and help with the development Manager with any design-related duties. They will work with the latest technologies, both hardware and software. The developer would be responsible for maintenance, and development of the automated CI infrastructure. This means they need the ability to work on multiple different platforms inorder to design reusable and scable modules. 
 
 ## Responsibilities
 - Prototype, design, and implement CI system components

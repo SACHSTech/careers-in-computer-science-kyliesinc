@@ -1,11 +1,8 @@
 # Job Description: Senior Program Manager
-
-
-## The Role:
-
+Program Manager for the SOC team at the Radeon Technology Group (RTG). In this position, your main duty will be to make sure that the new product development programme is successfully carried out in accordance with the project's timeline, and budget. Working closely with the Markham and India SOC teams as well as the global IP teams is a crucial part of this role in order to sustain continuous forward movement, provide accurate and timely status reporting, and make sure that important issues are driven with the proper urgency. In order to accomplish project goals, this cross-functional position requires collaboration with all engineering and business departments. Deep exposure to cutting-edge GPU computing, machine learning, and related technologies is provided by this role.
 
 ## The Person:
-
+The ideal candidate will be well-versed in programme management, have a proven track record of producing complex software programmes, and have expertise in developing SOC products, Firmware, Graphics, Device Drivers, and Firmware, as well as Virtualization technologies.
 
 ## Responsibilities
 - Defines, plans, and drives projects and program plans based on management and senior technical guidance

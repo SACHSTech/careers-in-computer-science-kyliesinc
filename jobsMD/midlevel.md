@@ -1,11 +1,13 @@
 # Job Description: Senior Software Engineer / Developer
-
-
-## The Role:
-
+The Senior software engineer/developer will be a member of a team that works to improve the API standard, increase the industry's acceptance of the API, and develop and maintain the AMD Vulkan driver. Our driver team is focused in a number of different areas. We are all trying to ensure that each of our many roles is adequately covered. Depending on their background and preferred growth strategy, engineers can pick to concentrate on a subset of the duties. Overall it is an positive environment where you get to work on some very interesting projects the industry has to offer.
 
 ## The Person:
-
+- excellent problem-solving skills
+- enjoys a team environment and learning from others
+- can balance paying attention to details within timeframes 
+- comunicates optimally
+- freely shares their knowledge
+- passionate about growth, learning, and contributing to the sucess of AMD
 
 ## Responsibilities:
 - Implement Vulkan new features/extensions for new generation AMD GPU.
