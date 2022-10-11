@@ -29,8 +29,23 @@ Carelton University offers entrance into computer science program which is one o
 For almost all universities it takes 4 years to graduate with a computer science degree. If there is co-op, then this may be closer to 5 years. 
 
 ## Technical and Non-technical Skills
+### Technical 
+- Certification, ie. Project Management Professional (PMP) Certification
+- programming languages: JavaScript, C, C++, HTML, CSS, Python, Ruby, Java, SQL, PHP, etc.
+- previous work experience in the field
+- bachelors degree in computer science
+### Non-Technical
+- Leadership skills
+- Management Skills
+- Fast learners
+- Strong orginizational skills
+- excellent problem-solving skills
+- teamwork skills
+- multi-task effectively
+- strong communication and presentation skills
 
 ## Salary Range
+Average salary in canada for a program manager is around $100,000
 
 ## Valuable Learning Experiences
 
