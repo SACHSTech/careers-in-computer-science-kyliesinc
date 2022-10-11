@@ -47,6 +47,7 @@ For almost all universities it takes 4 years to graduate with a computer science
     - PHP
 - previous work experience in the field
 - bachelors degree in computer science
+
 ### Non-Technical skills, Qualities, and Characteristics
 ![alt text](https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/5-ways-to-improve-your-teamwork-skills-300x200.jpg "Teamwork")
 - Leadership skills
