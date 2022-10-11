@@ -57,13 +57,40 @@ For almost all universities it takes 4 years to graduate with a computer science
 Average salary in canada for a program manager is around $100,000
 
 ## Valuable Learning Experiences
-### Co-op
+### 1. Co-op
+A great way to gain real job experience in computer science is to apply for the co-op in university. There are so many benefits:
+- you gain relevant work experience while gaining university credit and are paid
+- apply what you are learning into real workplace
+- build your network and connections 
+- develop technical and non-technical skills
+- makes it easier to get a job straight after universtiy 
 
-### Programing Competitions
+### 2. Programing Competitions
+- enhances and can prove your problem-solving skills
+- is a great way to practice fast coding
+- especially if one does well in a famous coding competiton, major companies will 
+- great way to combine your math and logical thinking skills with your problem solving and programing skills
 
-### Team Sports
+### 3. Team Sports
+Being part of a sports team can say alot about a person. Although this does not have anything to do with computer science, playing on team sports will help one gain non-technical and social skills that are still necessary to land major jobs. 
+- many athletes have been proven to do better academically
+- shows time and stress management
+- physical activities have major health benefits
+- sports teach teamwork and problem-solving skills
+- communications skills
+- discipline and perserverance
 
-### Managing a Club 
+### 4. Managing a Club 
+Being a president of a club any club will allow you to develop many necessary skills in becoming a manager of any job. 
+- leadership and organizational skills
+- strong communication and presentation skills
+- planning 
+- relationship building shkills
+- conflict resolutions
+- confidence
+- adaptability
+
+
 
 
 ## Job Examples
