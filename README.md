@@ -7,8 +7,8 @@ A program manager is in charge of many things. Such as managing and organizing p
 ## Education
 Inorder to become a Program Manager the education needed is Computer Engineering, Computer Science or Electrical Engineering Bachelor Degree
 
-## Carelton University - Computer Science
 ![alt text](https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/brand-logo-800w-1.jpg "Carelton University Logo")
+
 Carelton University offers entrance into computer science program which is one of the possible degrees needed inorder to become a Program Manager.
 ### Requirements
 - overall average 85-88%
@@ -33,6 +33,7 @@ For almost all universities it takes 4 years to graduate with a computer science
 
 ## Technical and Non-technical Skills
 ### Technical 
+<img src = "https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/Person%20coding%20on%20a%20computer.png" width = "100" height = "80">
 - Certification, ie. Project Management Professional (PMP) Certification
 - programming languages 
     - JavaScript
@@ -47,6 +48,7 @@ For almost all universities it takes 4 years to graduate with a computer science
 - previous work experience in the field
 - bachelors degree in computer science
 ### Non-Technical skills, Qualities, and Characteristics
+![alt text](https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/5-ways-to-improve-your-teamwork-skills-300x200.jpg "Teamwork")
 - Leadership skills
 - Management Skills
 - Fast learners
