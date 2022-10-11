@@ -36,6 +36,8 @@ For almost all universities it takes 4 years to graduate with a computer science
 <img src = "https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/Person%20coding%20on%20a%20computer.png" width = "350" height = "240">
 
 - Certification, Project Management Professional (PMP) Certification
+- previous work experience in the field
+- bachelors degree in computer science
 
 Programming Languages:
 - JavaScript
@@ -47,8 +49,6 @@ Programming Languages:
 - Python
 - SQL
 - PHP
-- previous work experience in the field
-- bachelors degree in computer science
 
 ### Non-Technical skills, Qualities, and Characteristics
 ![alt text](https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/5-ways-to-improve-your-teamwork-skills-300x200.jpg "Teamwork")
@@ -63,7 +63,8 @@ Programming Languages:
 - strong communication and presentation skills
 
 ## Salary Range
-Average salary in canada for a program manager is around $100,000
+Average salary in canada for a IT program manager in Canada is CAD$76k - CAD$153k
+
 
 ## Valuable Learning Experiences
 ### Co-op
