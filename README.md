@@ -8,7 +8,7 @@ A program manager is in charge of many things. Such as managing and organizing p
 Inorder to become a Program Manager the education needed is Computer Engineering, Computer Science or Electrical Engineering Bachelor Degree
 
 ## Carelton University - Computer Science
-Carelton University offers entrance into computer science program which is one of the possible degrees needed inorder to become a Program Manager. This degree takes 4 years plus co-op or internships.
+Carelton University offers entrance into computer science program which is one of the possible degrees needed inorder to become a Program Manager.
 ### Requirements
 - overall average 85-88%
 - Advanced Functions
@@ -25,6 +25,8 @@ Carelton University offers entrance into computer science program which is one o
 - COMP 1406 (0.5)
 - MATH 1104 (0.5)
 - Electives (1.0)
+### Course Length
+For almost all universities it takes 4 years to graduate with a computer science degree. If there is co-op, then this may be closer to 5 years. 
 
 ## Technical and Non-technical Skills
 
