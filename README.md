@@ -36,6 +36,7 @@ For almost all universities it takes 4 years to graduate with a computer science
 <img src = "https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/Person%20coding%20on%20a%20computer.png" width = "350" height = "300">
 
 - Certification, Project Management Professional (PMP) Certification
+
 Programming Languages:
 - JavaScript
 - Java
