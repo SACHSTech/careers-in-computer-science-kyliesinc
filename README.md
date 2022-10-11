@@ -43,7 +43,7 @@ For almost all universities it takes 4 years to graduate with a computer science
     - PHP
 - previous work experience in the field
 - bachelors degree in computer science
-### Non-Technical
+### Non-Technical skills, Qualities, and Characteristics
 - Leadership skills
 - Management Skills
 - Fast learners
@@ -67,6 +67,12 @@ Average salary in canada for a program manager is around $100,000
 
 
 ## Job Examples
+|                 |Entry Level          |Mid level               |Senior level                     |
+|-----------------|:--------------------|:-----------------------|:--------------------------------|
+|Name             |Jr. Software Engineer/Developer|Senior Software Engineer/Developer|Senior Software Program Manager |
+|Salary Range     |$88k - $105k          |$90k - $140k             |$140k - $200k                     |
+|City             |Markham |Orlando                 |Markham                          |
+|Description      |go to entry level | go to mid level | go to Sr. level|
 
 ## Work Cited
 
