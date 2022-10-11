@@ -8,6 +8,7 @@ A program manager is in charge of many things. Such as managing and organizing p
 Inorder to become a Program Manager the education needed is Computer Engineering, Computer Science or Electrical Engineering Bachelor Degree
 
 ## Carelton University - Computer Science
+![alt text](https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/brand-logo-800w-1.jpg "Carelton University Logo")
 Carelton University offers entrance into computer science program which is one of the possible degrees needed inorder to become a Program Manager.
 ### Requirements
 - overall average 85-88%
@@ -27,6 +28,8 @@ Carelton University offers entrance into computer science program which is one o
 - Electives (1.0)
 ### Course Length
 For almost all universities it takes 4 years to graduate with a computer science degree. If there is co-op, then this may be closer to 5 years. 
+
+[More information on Carelton's Computer Science](https://calendar.carleton.ca/undergrad/undergradprograms/computerscience/)
 
 ## Technical and Non-technical Skills
 ### Technical 
@@ -66,6 +69,7 @@ A great way to gain real job experience in computer science is to apply for the 
 - makes it easier to get a job straight after universtiy 
 
 ### Programing Competitions
+Programing competitions are an excellent way to actively apply and test your abilities.
 - enhances and can prove your problem-solving skills
 - is a great way to practice fast coding
 - especially if one does well in a famous coding competiton, major companies will 
@@ -96,7 +100,7 @@ Being a president of a club any club will allow you to develop many necessary sk
 |Name             |Jr. Software Engineer/Developer|Senior Software Engineer/Developer|Senior Software Program Manager |
 |Salary Range     |$88k - $105k          |$90k - $140k             |$140k - $200k                     |
 |City             |Markham |Orlando                 |Markham                          |
-|Description      |go to entry level | go to mid level | go to Sr. level|
+|Description      |[go to entry level](https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/jobsMD/entrylevel.md) | [go to mid level](https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/jobsMD/midlevel.md) | [go to Sr. level](https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/jobsMD/seniorlevel.md)    |
 
 ## Work Cited
 
