@@ -31,7 +31,16 @@ For almost all universities it takes 4 years to graduate with a computer science
 ## Technical and Non-technical Skills
 ### Technical 
 - Certification, ie. Project Management Professional (PMP) Certification
-- programming languages: JavaScript, C, C++, HTML, CSS, Python, Ruby, Java, SQL, PHP, etc.
+- programming languages 
+    - JavaScript
+    - Java
+    - C
+    - C++
+    - HTML
+    - CSS
+    - Python
+    - SQL
+    - PHP
 - previous work experience in the field
 - bachelors degree in computer science
 ### Non-Technical
@@ -48,6 +57,14 @@ For almost all universities it takes 4 years to graduate with a computer science
 Average salary in canada for a program manager is around $100,000
 
 ## Valuable Learning Experiences
+### Co-op
+
+### Programing Competitions
+
+### Team Sports
+
+### Managing a Club 
+
 
 ## Job Examples
 
