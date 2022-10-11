@@ -106,5 +106,20 @@ Being a president of a club any club will allow you to develop many necessary sk
 |Description      |[go to entry level](https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/jobsMD/entrylevel.md) | [go to mid level](https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/jobsMD/midlevel.md) | [go to Sr. level](https://github.com/SACHSTech/careers-in-computer-science-kyliesinc/blob/main/jobsMD/seniorlevel.md)    |
 
 ## Work Cited
-
+“AMD hiring Senior Program Manager in Markham, Ontario, Canada.” LinkedIn, https://ca.linkedin.com/jobs/view/senior-program-manager-at-amd-2903062515. Accessed 11 October 2022.
+“AMD Meet the Experts Webinars.” AMD, https://www.amd.com/en/partner/meet-experts-webinars. Accessed 11 October 2022.
+“AMD Software Engineer Salaries | $118K-$367K+.” Levels.fyi, https://www.levels.fyi/companies/amd/salaries/software-engineer. Accessed 11 October 2022.
+“Brand.” Carleton University, https://carleton.ca/brand/. Accessed 11 October 2022.
+“Carleton University 2022: Acceptance Rate, Admission, Tuition,.” Best School News, 1 March 2022, https://bestschoolnews.com/carleton-university/. Accessed 11 October 2022.
+Coles, Terri. “Are Programming Languages Key to the Evolution of Machine Learning?” ITPro Today, 27 June 2019, https://www.itprotoday.com/data-analytics-and-data-management/are-programming-languages-key-evolution-machine-learning. Accessed 11 October 2022.
+“Computer Science < Carleton University.” Calendars < Carleton University, https://calendar.carleton.ca/undergrad/undergradprograms/computerscience/. Accessed 11 October 2022.
+“Computer Science - Undergraduate Admissions - Carleton University.” Undergraduate Admissions - Carleton University, https://admissions.carleton.ca/programs/computer-science/. Accessed 11 October 2022.
+“5 Tips to Improve Your Teamwork Skills - My Perfect Resume.” MyPerfectResume, https://www.myperfectresume.com/career-center/jobs/networking/5-ways-to-improve-your-teamwork-skills. Accessed 11 October 2022.
+“How to Become a Program Manager.” Western Governors University, https://www.wgu.edu/career-guide/business/program-manager-career.html. Accessed 11 October 2022.
+“IT Program Manager: What Is It? and How to Become One? | Ziprecruiter.” ZipRecruiter, https://www.ziprecruiter.com/Career/IT-Program-Manager/What-Is-How-to-Become. Accessed 11 October 2022.
+“Junior Software Developer Job Description.” Betterteam, https://www.betterteam.com/junior-software-developer-job-description. Accessed 11 October 2022.
+“MTS Software Development Engineer.” Jobs at AMD, https://jobs.amd.com/job/Orlando-MTS-Software-Development-Eng_-162127-Flor/885977400/. Accessed 11 October 2022.
+“Salary: Program Manager in Toronto, ON 2022.” Glassdoor, https://www.glassdoor.ca/Salaries/toronto-program-manager-salary-SRCH_IL.0,7_IM976_KO8,23.htm. Accessed 11 October 2022.
+“Software Development Engineer 2.” Software Development Engineer 2, https://jobs.amd.com/job/Markham-Software-Development-Engineer-2-Onta/898137800/. Accessed 11 October 2022.
+“Sr. Manager Software Development.” Jobs at AMD, https://jobs.amd.com/job/Markham-Sr_-Manager-Software-Development-Onta/890046000/. Accessed 11 October 2022.
 
