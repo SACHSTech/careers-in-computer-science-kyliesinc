@@ -5,6 +5,7 @@
 A program manager is in charge of many things. Such as managing and organizing projects for teams of employees. They also create timelines and budgets and overlook the various programs and tasks for employers. 
 
 ## Education
+Inorder to become a Program Manager the education needed is Computer Engineering, Computer Science or Electrical Engineering Bachelor Degree
 
 ## Technical and Non-technical Skills
 
